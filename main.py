@@ -3,7 +3,7 @@
 lists = {
     "Piekarnia": ["Chleb", "Pączek", "Bułki"],
     "Warzywniak": ["Marchew", "Seler", "Rukola"],
-    "Papiernik": ["Zeszyt A4", "Pióro", "Atrament", "Kałamarz" #Zmiany do pierwszego do commit'a na github'a
+    "Papiernik": ["Zeszyt A4", "Pióro", "Atrament", "Kałamarz" #Zmiany do pierwszego commit'a na github'a
 }
 amount = 0
 for list in lists:
